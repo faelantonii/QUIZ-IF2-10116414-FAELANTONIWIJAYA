@@ -13,7 +13,7 @@ import java.util.Scanner;
  * Nama       : Fael Antoni Wijaya 
  * Kelas      : PBO2/IF 2 
  * Nim        : 10116414
- * Deskripsi  : Program Quiz
+ * Deskripsi  : Program Quiz Program Kasir Rock n Roll Haircut
  */
 public class QUIZ_IF2_10116414_FaelAntoniWijaya {
     public static void main(String[] args) {
